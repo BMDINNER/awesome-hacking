@@ -56,6 +56,9 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Understanding the basics of Linux Binary Exploitation](https://github.com/r0hi7/BinExp)
  * [Shells](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
  * [Missing Semester](https://missing.csail.mit.edu/2020/course-shell/)
+ * [Testing your command line skills](https://cmdchallenge.com/) | A website that asks you to prompt the command that is needed to fill the task.
+ * [A beginner's guide of CyberMentor on Youtube,All free](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj) | Shows the roadmap of a pen tester from beginner level to intermediate level with
+ * lots of examples.
 
 
 ## Tools
@@ -246,7 +249,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [pwnable.kr](http://pwnable.kr/) - Provide various pwn challenges regarding system security
  * [Exploit Exercises - Nebula](https://exploit-exercises.com/nebula/)
  * [SmashTheStack](http://smashthestack.org/)
- * [HackingLab](https://www.hacking-lab.com/) 
+ * [HackingLab](https://www.hacking-lab.com/)
 
 ## Reverse Engineering
  * [Reversing.kr](http://www.reversing.kr/) - This site tests your ability to Cracking & Reverse Code Engineering
